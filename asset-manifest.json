@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/frontend-task/static/css/main.10547385.css",
-    "main.js": "/frontend-task/static/js/main.74aec8ce.js",
+    "main.js": "/frontend-task/static/js/main.8b52f2da.js",
     "static/js/453.8fcb4eb0.chunk.js": "/frontend-task/static/js/453.8fcb4eb0.chunk.js",
     "static/media/primeicons.svg": "/frontend-task/static/media/primeicons.6ed59f962963a4a73af2.svg",
     "static/media/Inter-italic.var.woff2?v=3.19": "/frontend-task/static/media/Inter-italic.var.30807be7abc48ba8c73c.woff2",
@@ -12,11 +12,11 @@
     "static/media/primeicons.woff2": "/frontend-task/static/media/primeicons.024b32cc7bf399b1a847.woff2",
     "index.html": "/frontend-task/index.html",
     "main.10547385.css.map": "/frontend-task/static/css/main.10547385.css.map",
-    "main.74aec8ce.js.map": "/frontend-task/static/js/main.74aec8ce.js.map",
+    "main.8b52f2da.js.map": "/frontend-task/static/js/main.8b52f2da.js.map",
     "453.8fcb4eb0.chunk.js.map": "/frontend-task/static/js/453.8fcb4eb0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.10547385.css",
-    "static/js/main.74aec8ce.js"
+    "static/js/main.8b52f2da.js"
   ]
 }
