@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/frontend-task/static/css/main.10547385.css",
+    "main.js": "/frontend-task/static/js/main.74aec8ce.js",
+    "static/js/453.8fcb4eb0.chunk.js": "/frontend-task/static/js/453.8fcb4eb0.chunk.js",
+    "static/media/primeicons.svg": "/frontend-task/static/media/primeicons.6ed59f962963a4a73af2.svg",
+    "static/media/Inter-italic.var.woff2?v=3.19": "/frontend-task/static/media/Inter-italic.var.30807be7abc48ba8c73c.woff2",
+    "static/media/Inter-roman.var.woff2?v=3.19": "/frontend-task/static/media/Inter-roman.var.ba4caefcdf5b36b438db.woff2",
+    "static/media/primeicons.eot": "/frontend-task/static/media/primeicons.ff0c4cd79b2ffca2de54.eot",
+    "static/media/primeicons.woff": "/frontend-task/static/media/primeicons.8931fda1930c3bd21e96.woff",
+    "static/media/primeicons.ttf": "/frontend-task/static/media/primeicons.a5c2a53d1ff7a9ff5933.ttf",
+    "static/media/primeicons.woff2": "/frontend-task/static/media/primeicons.024b32cc7bf399b1a847.woff2",
+    "index.html": "/frontend-task/index.html",
+    "main.10547385.css.map": "/frontend-task/static/css/main.10547385.css.map",
+    "main.74aec8ce.js.map": "/frontend-task/static/js/main.74aec8ce.js.map",
+    "453.8fcb4eb0.chunk.js.map": "/frontend-task/static/js/453.8fcb4eb0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10547385.css",
+    "static/js/main.74aec8ce.js"
+  ]
+}
