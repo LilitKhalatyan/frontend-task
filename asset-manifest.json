@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/frontend-task/static/css/main.10547385.css",
-    "main.js": "/frontend-task/static/js/main.fca7ceac.js",
+    "main.css": "/frontend-task/static/css/main.5b9fcb73.css",
+    "main.js": "/frontend-task/static/js/main.fdce27d9.js",
     "static/js/453.8fcb4eb0.chunk.js": "/frontend-task/static/js/453.8fcb4eb0.chunk.js",
     "static/media/primeicons.svg": "/frontend-task/static/media/primeicons.6ed59f962963a4a73af2.svg",
     "static/media/Inter-italic.var.woff2?v=3.19": "/frontend-task/static/media/Inter-italic.var.30807be7abc48ba8c73c.woff2",
@@ -11,12 +11,12 @@
     "static/media/primeicons.ttf": "/frontend-task/static/media/primeicons.a5c2a53d1ff7a9ff5933.ttf",
     "static/media/primeicons.woff2": "/frontend-task/static/media/primeicons.024b32cc7bf399b1a847.woff2",
     "index.html": "/frontend-task/index.html",
-    "main.10547385.css.map": "/frontend-task/static/css/main.10547385.css.map",
-    "main.fca7ceac.js.map": "/frontend-task/static/js/main.fca7ceac.js.map",
+    "main.5b9fcb73.css.map": "/frontend-task/static/css/main.5b9fcb73.css.map",
+    "main.fdce27d9.js.map": "/frontend-task/static/js/main.fdce27d9.js.map",
     "453.8fcb4eb0.chunk.js.map": "/frontend-task/static/js/453.8fcb4eb0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.10547385.css",
-    "static/js/main.fca7ceac.js"
+    "static/css/main.5b9fcb73.css",
+    "static/js/main.fdce27d9.js"
   ]
 }
