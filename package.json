@@ -26,10 +26,11 @@
     "zustand": "^4.5.2"
   },
   "scripts": {
-    "start": "react-scripts start --port 3000",
+    "start": "concurrently \"npm run start-server\" \"npm run start-client\"",
+    "start-client": "react-scripts start --port 3000",
+    "start-server": "json-server --watch ./src/data.json --port 3001",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-    "start-server": "json-server --watch ./src/data.json --port 3001",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
@@ -54,6 +55,7 @@
   },
   "devDependencies": {
     "@types/uuid": "^9.0.8",
+    "concurrently": "^8.2.2",
     "gh-pages": "^6.1.1"
   }
 }
